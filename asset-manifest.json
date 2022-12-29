@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDoList_Context_Reducer/static/css/main.2cc4ddc4.css",
+    "main.js": "/ToDoList_Context_Reducer/static/js/main.b3a7f9a8.js",
+    "index.html": "/ToDoList_Context_Reducer/index.html",
+    "main.2cc4ddc4.css.map": "/ToDoList_Context_Reducer/static/css/main.2cc4ddc4.css.map",
+    "main.b3a7f9a8.js.map": "/ToDoList_Context_Reducer/static/js/main.b3a7f9a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc4ddc4.css",
+    "static/js/main.b3a7f9a8.js"
+  ]
+}
